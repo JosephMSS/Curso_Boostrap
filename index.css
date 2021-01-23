@@ -47,3 +47,8 @@
 #footer a {
     color: white;
 }
+
+#speakers img{
+    object-fit: cover;
+    height: 318px;
+}
